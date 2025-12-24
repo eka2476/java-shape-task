@@ -25,3 +25,4 @@ public class MyApplication {
         System.out.println(shape.getAverageSide());
     }
 }
+
